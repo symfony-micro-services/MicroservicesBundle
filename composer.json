@@ -15,7 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Symfony\\MicroServicesBundle\\": "Symfony/MicroServicesBundle/"
+            "Symfony\\MicroServicesBundle\\": "Symfony/Bundle/MicroServicesBundle/",
+            "Symfony\\MicroServices\\": "Symfony/MicroServices/"
         }
     }
 }
