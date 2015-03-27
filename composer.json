@@ -1,7 +1,7 @@
 {
     "name": "symfony/micro-services",
     "description": "synchronizeds",
-    "homepage": "https://github.com/skafandri/SynchronizedS",
+    "homepage": "https://github.com/symfony-micro-services/ms",
     "license": "GPL-V3",
     "authors": [
         {
